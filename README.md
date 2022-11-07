@@ -1,6 +1,8 @@
 # Greg Petrites
 
-Give me a business problem and Visual Studio or VS Code and I can develop the heck out of a supportable solution.  But ask me to build an informative attractive website and this is what you get.
+Give me a business problem and Visual Studio or VS Code and I can develop the heck out of a supportable solution.
+
+Ask me to build an informative, attractive website and this is what you get.
 
 By day, I'm a Chief Architect as a financial services firm.
 
