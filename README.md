@@ -11,6 +11,14 @@ At night and weekends, my interests are:
 - Good beer (life's too short for macrobrews)
 - Travel to places I've not been before
 
-You can find me on <a rel="me" href="https://mastodon.green/@GPetrites">Mastodon</a> following environmental and urbanity.
+I do like to keep things a bit separate, so I have multiple Mastodon account.
 
-I also have a <a rel="me" href="https://mastodon.social/@gpetrites">political face</a> on Mastodon, but my views are mine and do not reflect the firm I work for.
+For environmental concerns and urbanism, you can find me at:
+<a rel="me" href="https://mastodon.green/@GPetrites">@gpetrites@mastodon.green</a>
+
+For software and technology, I've set up shop at:
+<a rel="me" href="https://techhub.social/@GPetrites">@gpetrites@techhub.social</a>
+
+And currently, I follow politics (and everything else) at:
+<a rel="me" href="https://mastodon.social/@gpetrites">@gpetrites@techhub.social</a>
+but please note that my views are mine and do not reflect the firm I work for.
