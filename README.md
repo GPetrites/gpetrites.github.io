@@ -22,3 +22,6 @@ For software and technology, I've set up shop at:
 And currently, I follow politics (and everything else) at:
 <a rel="me" href="https://mastodon.social/@gpetrites">@gpetrites@techhub.social</a>
 but please note that my views are mine and do not reflect the firm I work for.
+
+I probably won't post many photos, but if I do, you'll find them here:
+<a rel="me" href="https://pixelfed.social/@gpetrites">@gpetrites@pixelfed.social</a>
